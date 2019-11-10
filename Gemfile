@@ -2,6 +2,7 @@
 source "https://rubygems.org"
 
 gem 'pry'
+gem 'rb-readline'
 gem 'sqlite3', '~>1.3.6'
 
 group :test do
